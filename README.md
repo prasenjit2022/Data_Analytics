@@ -23,6 +23,8 @@ Machine Learning: We have applied below models to our train data set
                   2. SVM (Support Vector Machine)
                   3. RandomForest
                   4. GradientBoosting
+                  
+                  
 Conclusion: Random Forest is predicting more closely to actual value than other models so we will be using Random Forest to Predict the price of Health Insurace.
 
 
